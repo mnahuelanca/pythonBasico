@@ -1,4 +1,3 @@
-#Ejercicios con python
 Pequeños proyectos hechos a partir del curso de básico de Python dictado por Platzi.
 #### adivinarNumero: 
 Juega con la consola. Te pedira un numero entre el 1 y el 50. Apartir del numero ingresado te dira si es menor o mayor hasta que ganes. Puedes aumentar o disminuir el rango.
