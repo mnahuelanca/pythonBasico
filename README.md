@@ -11,3 +11,6 @@ Genera una contrasena de 15 caracteres (modificable) con mayusculas, minusculas,
 ________________________________________
 #### tablaMultiplicar10:
 Muestra la tabla de multiplicar que seleccionas mediante un menu. La misma es del 2 al 10
+________________________________________
+#### contraseñaWifi:
+En revision. Script que da la contraseña de la red wifi que le pasemos.
